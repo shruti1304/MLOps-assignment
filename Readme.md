@@ -20,6 +20,8 @@ Boston_Housing/
 ├── misc.py
 ├── train.py
 ├── train2.py
+├── test_model_DT.py
+├── test_model_KR.py
 ├── requirements.txt
 └── README.md
 ```
